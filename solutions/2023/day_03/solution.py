@@ -117,7 +117,3 @@ class Solution(StrSplitSolution):
                     gear_ratios.append(num1 * num2)
                 
         return sum(gear_ratios)
-
-    # @answer((1234, 4567))
-    # def solve(self) -> tuple[int, int]:
-    #     pass
